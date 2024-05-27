@@ -6,13 +6,13 @@
 <br> 
 
 <div style="width: 100%;">
-    <a href="#"><img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/discoverWarzone.gif?raw=true" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8f0f4fec01831f9f50ae640d9a76d6d8ca2264e1/headers/demo.svg" style="width: 100%"></a>
 </div>
 
 <br>
 
 <div align="center" style="width: 100%;">
-    <a href="https://www.figma.com/proto/JC1gzYjyrpfvc6T0iv3nbd/Untitled?node-id=82-35&starting-point-node-id=82%3A35&scaling=scale-down&t=Ixgn5QeRQnMCsHfy-1"><img src="./readmeSetup/videoGIFS/discoverWarzone.gif" style="width: 100%">Final Product</a>
+    <a href="https://www.figma.com/proto/JC1gzYjyrpfvc6T0iv3nbd/Untitled?node-id=82-35&starting-point-node-id=82%3A35&scaling=scale-down&t=Ixgn5QeRQnMCsHfy-1"><img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/discoverWarzone.gif?raw=true" style="width: 100%">Final Product</a>
 </div>
 
 <br> 
