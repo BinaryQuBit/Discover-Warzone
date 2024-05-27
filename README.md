@@ -6,7 +6,7 @@
 <br> 
 
 <div style="width: 100%;">
-    <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8f0f4fec01831f9f50ae640d9a76d6d8ca2264e1/headers/demo.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/discoverWarzone.gif?raw=true" style="width: 100%"></a>
 </div>
 
 <br>
